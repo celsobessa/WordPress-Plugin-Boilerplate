@@ -5,7 +5,7 @@
  *
  * This file is used to markup the admin-facing aspects of the plugin.
  *
- * @link       http://example.com
+ * @link       https://example.com/plugin-name-uri/
  * @since      1.0.0
  *
  * @package    Plugin_Name
